@@ -1,0 +1,14 @@
+# GX4_PRO-user 14 UP1A.231005.007 1744203217 release-keys
+- manufacturer: gigaset
+- platform: common
+- codename: GX4_PRO
+- flavor: sys_mssi_64_ww_armv82-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: 1744200538
+- tags: release-keys
+- fingerprint: Gigaset/GX4_PRO_EEA/GX4_PRO:14/UP1A.231005.007/1744200538:user/release-keys
+- is_ab: true
+- brand: Gigaset
+- branch: GX4_PRO-user-14-UP1A.231005.007-1744203217-release-keys
+- repo: gigaset_gx4_pro_dump
